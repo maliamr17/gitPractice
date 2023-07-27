@@ -7,7 +7,8 @@ public class test4 {
 		System.out.println("test case 1");
 		System.out.println("test cases 2");
 		System.out.println("test cases 3");
-		System.out.println("test jay 4");
+		System.out.println("test cases amar");
+		System.out.println("test cases amar");
 	}
 
 }
